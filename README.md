@@ -5,6 +5,8 @@
 
 <img src="https://img.shields.io/badge/<instagram>-<my_chuoo>-<#FF0069>"/>
 
+<img src="https://img.shields.io/badge/<gmail>-<chuhj0101@pusan.ac.kr>-<#EA4335>"/>
+
 
 <!--
 **202628202-chuhj0101/202628202-chuhj0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
