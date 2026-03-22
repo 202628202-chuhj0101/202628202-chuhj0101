@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-https://img.shields.io/badge/<#FF0069>-<@my_chuoo>-<pink>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 
 
